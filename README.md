@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NetOnNerding
 - 👀 I’m interested in sailing, code, gaming
 - 🌱 I’m currently learning EVERYTHING!
-- 😄 Pronouns: el capitain, preacer
+- 😄 Pronouns: el capitain, preacher
 - ⚡ Fun fact: I don't like BADGERS!
 
 <!---
