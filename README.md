@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NetOnNerding
 - 👀 I’m interested in sailing, code, gaming, tattooing, +148 things
 - 🌱 I’m currently learning EVERYTHING!
-- 😄 Pronouns: el capitain, preacher
+- 😄 Pronouns: el capitain, preacher, bubblan
 
 <!---
 NetOnNerding/NetOnNerding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
